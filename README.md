@@ -15,4 +15,4 @@ The source code can be located in the 'files' folder in this repository!
 Can be found in the releases tab.
 
 # Support
-You can contact me at: 7o_#9066 on discord!
+You can create a issue to contact me!
